@@ -1,0 +1,5 @@
+Function1: 'Merge_Dataframe' is used for merging the data frame in Script1  
+
+Function2: 'Text_analyzer' is used for returning the best and the worst idea of the company in Script2
+
+Function3: 'Find_most_common_word' is used for finding out the n most common words in the company description in Script3
